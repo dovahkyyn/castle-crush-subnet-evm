@@ -12,10 +12,10 @@
 | Chain Logo                    |  ![chain logo](https://cc-marketplace-stg.wildlife.io/static/media/castle-crush.e6a78fa6.png) |
 | Blockchain ID                 |                                            2efRRokqrvBXqaFrgXKomFHhyh9JSVFJEmE1WzdP1KxDbBksFS |
 | Eth Chain ID                  |                                                                                         31416 |
-| RPC URL                       |                                                                                               |
+| RPC URL                       |                                         https://subnets.avax.network/castle-crush/testnet/rpc |
 | Description                   |                                                                                               |
-| Site                          |                                                                                               |
-| Multicall2 contracts          |                                                                                               |
+| Site                          |                                    https://subnets.avax.network/castle-crush/testnet/explorer |
+| Multicall2 contracts          |                                                    0x000dE1e4108d9A5C9d2d36C15f9acf1B351467bd |
 
 ## Fuji Subnet ERC-20 Tokens
 
